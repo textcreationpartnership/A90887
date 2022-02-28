@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Colonell Powell and Col. Poyers letter to His Highnesse the Prince of VVales, vvith their declaration, for restoring His Maiesty, the Protestant religion, the lawes of the land, and the liberty of the subject. To which is added an exhortation to the people of England and the Citty of London. / By a welwisher of His Maiesty, the kingdomes peace, and the peoples freedome.</title>
+            <author>Powell, Colonel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90887</idno>
+            <idno type="STC">Wing P3045</idno>
+            <idno type="STC">Thomason E436_14</idno>
+            <idno type="STC">ESTC R203198</idno>
+            <idno type="EEBO-CITATION">99863245</idno>
+            <idno type="PROQUEST">99863245</idno>
+            <idno type="VID">115435</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90887)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115435)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 69:E436[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Colonell Powell and Col. Poyers letter to His Highnesse the Prince of VVales, vvith their declaration, for restoring His Maiesty, the Protestant religion, the lawes of the land, and the liberty of the subject. To which is added an exhortation to the people of England and the Citty of London. / By a welwisher of His Maiesty, the kingdomes peace, and the peoples freedome.</title>
+                  <author>Powell, Colonel.</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+                  <author>Poyer, John, d. 1649.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed Anno Dom: 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>"The declaration of Colonell Poyer, &amp;c" (A2v-A3v) is a reprinting of: The declaration of Col. Poyer, and Col. Powel, and the officers and soldiers under their command, which they desired to be published to the whole kingdome.</note>
+                  <note>Annotation on Thomason copy: "Aprill 20th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115435:1" rendition="simple:additions"/>
+            <p>
+               <hi>COLONELL</hi> POWELL And COL. POYERS LETTER To <hi>His Highneſſe</hi> the <hi>Prince</hi> of VVALES, VVith their <hi>DECLARATJON,</hi> for Reſtoring His <hi>Majeſty,</hi> the <hi>Proteſtant Religion,</hi> the Lawes of the <hi>Land,</hi> and the <hi>Liberty</hi> of the SVBIECT.</p>
+            <p>To which is Added <hi>An exhortation to the People</hi> OF ENGLAND And the <hi>CITTY</hi> of LONDON.</p>
+            <p>By A <hi>Welwiſher</hi> of <hi>His Maieſty,</hi> The Kingdomes <hi>Peace,</hi> and the <hi>Peoples Freedome.</hi>
+            </p>
+            <p>Printed <hi>Anno Dom:</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:115435:2"/>
+            <pb n="3" facs="tcp:115435:2"/>
+            <head>May it pleaſe your Highneſs.</head>
+            <p>WEE Hope our <hi>Declaration,</hi> (which we have now ſent unto your <hi>Highneſſe</hi>) will give you <hi>ample ſatisfaction,</hi> as well of our <hi>Integri<g ref="char:EOLhyphen"/>ty</hi> heretofore, as of our <hi>Intentions</hi> for the <hi>Future,</hi> to ſerve your <hi>Royall Father,</hi> and <hi>Your ſelfe,</hi> as farre as we are able, to make you both <hi>greate</hi> and <hi>glori<g ref="char:EOLhyphen"/>ous,</hi> as the <hi>Parliament</hi> promiſed, and wee ever <hi>in<g ref="char:EOLhyphen"/>tended,</hi> and did <hi>till of late,</hi> conceive that <hi>they did ſo too;</hi> but as ſoone as wee <hi>clearely</hi> ſaw that they went cleane <hi>contrary wayes,</hi> wee addreſſed our ſelves to his <hi>Majeſty,</hi> and had a promiſe to have ſpeedy <hi>directions</hi> from him, which wee have not yet had: the reaſon whereof, (as we conceive,) is, becauſe of the <hi>cloſe reſtraint</hi> upon him, in re<g ref="char:EOLhyphen"/>gard whereof, wee do now apply our ſelves un<g ref="char:EOLhyphen"/>to your <hi>Highneſſe,</hi> wee have ſent <hi>Propoſitions,</hi> which (wee hope) will prove <hi>reaſonable</hi> to your <hi>Highneſſe,</hi> to confirme us in our <hi>endeavours,</hi> and that your <hi>Highneſſe</hi> will pleaſe to ſign them, and ſome <hi>Inſtructions,</hi> concerning our <hi>wants</hi> and <hi>ſup<g ref="char:EOLhyphen"/>plies,</hi>
+               <pb n="4" facs="tcp:115435:3"/>to which wee hope your <hi>Highneſſe</hi> wil give us a <hi>ſpeedy anſwer,</hi> that ſo, wee may goe on the more cherefully, to reſtore your <hi>Royall Father,</hi> to his <hi>Greatneſſe,</hi> that He may long <hi>reigne</hi> over us, and when it ſhall pleaſe <hi>God</hi> to give him a <hi>King<g ref="char:EOLhyphen"/>dome</hi> of <hi>glory</hi> in <hi>heaven,</hi> to leave all his <hi>Kingdomes</hi> on earth to you his <hi>ſucceſſor,</hi> in <hi>peace</hi> and <hi>Happi<g ref="char:EOLhyphen"/>neſſe,</hi> which ſhall ever be the prayer of</p>
+            <closer>
+               <signed>Your Higneſſes faithfull Servants Powell, Poyer,</signed>
+            </closer>
+         </div>
+         <div type="declaration">
+            <head>The Declaration of Colonell <hi>Poyer,</hi> &amp;c</head>
+            <p>IT is notorious enough upon what grounds this <hi>War</hi> was by us undertaken, how the <hi>faults</hi> of <hi>Government</hi> precedent were laid open, and reformation promiſed, wherein <hi>the true Religion ſhould be advanced, the King made great and glorious, and the Iuſt priviledges of Par<g ref="char:EOLhyphen"/>liament, the Lawes of the Land, and the Liberty of the People maintained:</hi> But now how much our expecta<g ref="char:EOLhyphen"/>tions have failed us, and how we have run into thoſe evills which we fought againſt, is at laſt too apparent unto us, who would not at the firſt believe the things wee now ſee, inſomuch that the <hi>Errours</hi> of the <hi>former Government,</hi> are now ſo farre <hi>exceeded</hi> both in <hi>Church</hi> and <hi>Common-wealth;</hi> that they are either <hi>Iuſtified,</hi> or at leaſt ſo much <hi>excuſed,</hi> as that it is deſired by the moſt
+<pb n="5" facs="tcp:115435:3"/>and beſt of men, rather to enjoy the <hi>former</hi> again, then to ſuffer ſuch a <hi>Reformation,</hi> wherein the <hi>Publique good</hi> is pretended, and the <hi>particular ends</hi> of the <hi>Refor<g ref="char:EOLhyphen"/>mers intended.</hi>
+            </p>
+            <p>For although our Party have prevailed almoſt theſe <hi>three yeares,</hi> and the <hi>King</hi> in the power of the <hi>Refor<g ref="char:EOLhyphen"/>mers</hi> almoſt theſe <hi>two yeares;</hi> yet the things promiſed to be <hi>reformed,</hi> and which wee <hi>ſought</hi> for, are ſcarce ſo much as entred into, or <hi>debated</hi> but cleane contrary things now <hi>Acted.</hi>
+            </p>
+            <p>The <hi>King</hi> inſtead of comming to his <hi>Parliament</hi> to <hi>treat perſonally</hi> with his two Houſes, <hi>Jmpriſoned;</hi> in<g ref="char:EOLhyphen"/>ſtead of being made <hi>Great</hi> and <hi>Glorious,</hi> is become the moſt <hi>infortunate</hi> in the World, and <hi>great</hi> and <hi>glorious</hi> onely in <hi>Piety, Patience,</hi> and <hi>Pitty:</hi> our <hi>Religion, Lawes</hi> and <hi>Lib<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rties</hi> ſo much <hi>trampled</hi> upon, and <hi>deſtroyed,</hi> and the greateſt <hi>Tyranny,</hi> and <hi>Arbitrary Power</hi> ſet over us, that the <hi>wit</hi> of <hi>man,</hi> or <hi>malice</hi> of the <hi>Devill</hi> can invent, and all this but to ſatisfie the <hi>Avarice</hi> and <hi>Ambition</hi> of a few men, who by accuſing their <hi>Brethren</hi> have al<g ref="char:EOLhyphen"/>ready gotten too much power into their hands, and do now labour to <hi>disband</hi> us, not to <hi>eaſe</hi> the <hi>Countrey</hi> (as is pretended) but as we are able to prove by their owne <hi>Letters</hi> and <hi>words</hi> to bring in other <hi>Forces,</hi> ſuch as may execute their Wils, and make the <hi>Gentry</hi> ſubject to <hi>Sequeſtration, inſlave</hi> the <hi>People,</hi> and (to uſe their owne words) <hi>Roule the Country before them:</hi> and to eſtabliſh <hi>Exciſe, Taxes,</hi> and other <hi>intollerable charges,</hi> not to be avoided, without the effuſion of more bloud, then hath yet been ſhed in this Quarrell, unleſſe <hi>God</hi> of his infi<g ref="char:EOLhyphen"/>nite mercy pleaſe to direct it by ſome meanes not ap<g ref="char:EOLhyphen"/>pearing to us: And that they might (as much as in them
+<pb n="6" facs="tcp:115435:4"/>lies) deſtroy our <hi>Soules</hi> as well as our <hi>bodies;</hi> They go about to put downe the <hi>Booke</hi> of <hi>Common Prayer</hi> in theſe parts, as they have already done in the reſt of the Kingdome, which will be more wanted here, then in other parts, becauſe the <hi>Booke of Common Prayer</hi> is the ſole comfort of the People here, and their way to attaine the knowledge of the <hi>Principles</hi> of <hi>Religion,</hi> and to ſerve <hi>God:</hi> theſe things, though evident in them<g ref="char:EOLhyphen"/>ſelves, yet we ſhall be ready to make proofe of, as oc<g ref="char:EOLhyphen"/>caſion ſhall require: And therefore that the whole world may ſee our integritie, as wel in the undertaking this <hi>War</hi> in the beginning and our <hi>Carriage</hi> hitherto, as of our <hi>intentions</hi> for the <hi>future,</hi> wee do now declare:</p>
+            <p>That wee do ſtill continue to our <hi>firſt Principles,</hi> to bring the King to a <hi>Perſonall Treaty</hi> with his Parlia<g ref="char:EOLhyphen"/>ment with <hi>Honour, Freedome,</hi> and <hi>Saftie,</hi> that ſo the juſt <hi>Prerogative</hi> of the <hi>King, Priviledges</hi> of <hi>Parliament, Lawes</hi> of the <hi>Land,</hi> and <hi>Liberties</hi> of the <hi>people,</hi> may be all <hi>eſtabliſhed</hi> and <hi>preſerved</hi> in their <hi>proper bounds,</hi> that we will aſmuch as in us lyes <hi>protect</hi> the <hi>people</hi> from <hi>In<g ref="char:EOLhyphen"/>iury,</hi> and maintaine the <hi>Proteſtant Religion,</hi> and the <hi>Common prayer</hi> as it is eſtabliſhed by <hi>Law</hi> in this Land, and therefore crave the <hi>Aſſiſtance</hi> of the <hi>whole King<g ref="char:EOLhyphen"/>dome</hi> therein.</p>
+         </div>
+         <div type="exhortation">
+            <pb n="7" facs="tcp:115435:4"/>
+            <head>An Exhortation to the people of <hi>England,</hi> and to the City of <hi>London.</hi>
+            </head>
+            <p>HEre you have a glorious example before your Eyes. You have a doore opened unto you for the recovery of your peace, your liberty, your Religion, and for the deliverance of your gracious King, from that horrid and Trayterous oppreſſion, under which he hath ſo long ſuffered for the maintenance of your rights. VVhoſe reſtitution will be the recovery of the Honour of your City, and of this Nation. Neg<g ref="char:EOLhyphen"/>lect not ſo gracious an opportunity as God hath now offered you, leaſt you have cauſe to repent it for ever, when it is too late. You ſee now the vizour of this vile Rebellion pulled off. That you may no longer doate upon ſuch an ugly impiety, you have a cleare diſcovery of the falſhood and treachery of thoſe that with faire promiſes, and ſpecious pretences drawn over their baſe and trayterous intentions, ſeduced many ſimple and well-meaning people of the Land, and engaged them in the purſuit of their owne ruine, for the ſerving of the turnes of their Private deſignes. Do not therefore render your ſelves ſo inexcuſable as to adhere unto a bare fac't wickednes. leaſt you make your ſelves bare unto the Judgment of the Almighty. Separate your ſelves ſpeedily from the Tents of theſe wicked Korahs and their company, leaſt if you pertake with them anie longer in their ſinnes, you be ſwallowed up together with then in their Judgements. Delay not the proſecution of your owne ſaftie aad happineſſe. Remember thoſe great and high obligations that lye upon you to defend the truth of God, to recover the beauty and order of his Worſhip to repaire the breaches and Diviſions of his CHVRCH.
+<pb n="8" facs="tcp:115435:5"/>Remember the ſacred Oathes of your Allegeance and fidelity to your pious and gracious Prince, and the Common dutie and bond of Conſcience that lies up<g ref="char:EOLhyphen"/>on all Subjects, to protect him whom God hath orday<g ref="char:EOLhyphen"/>ned to protect them; you find by ſad and lamentable experience, how in the ruine of his Throne, and of his regall and juſt power, Your freedome, Your trade, Your peace, Your ſecurity, Your Religion and all are fallen under foot. In his repaire under God, you may repaire them all. If you will be happy by Gods help you now may, your timely and Generall Appearance in this work may prevent the ſhedding of much bloud, if you will be miſerable, thank your ſelves. You of the Citty have had a late experiment of the kindnes of thoſe towards you, whom you have bin too forward to ſerve heretofore in their ungodly deſignes. Be wiſe now at length, and let it not be your eternall reproach, that you can be valient in nothing but Rebellion; make amends for your former miſcariages, and do not lay your necks any more under the feet of ſuch unthank<g ref="char:EOLhyphen"/>full Maſters. If they uſe you thus, when the aſſiſtance they have had from you is, ſo freſh in memory: and when their power is yet ſo queſtionable. Imagine what they are like to do when your ſervices are for<g ref="char:EOLhyphen"/>gotten, and they eſtabliſhed in full power. Conſider what an eaſe it will be to you to maintaine a perpetu<g ref="char:EOLhyphen"/>all Parliament and Army. Go then immediatly in the firſt place unto God; Humble your ſelves before him for what is paſt; Implore his pardon, his direction, his aſſiſtance; Set his Glory before your eyes. <hi>Be of good courage, and let us play the men, for our people, and for the Citties of our God. And the Lord do that which ſeemeth him Good.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
